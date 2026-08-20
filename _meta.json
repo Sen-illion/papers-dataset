@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-08-20T11:07:04.431Z",
+  "query": "(cat:cs.AI OR cat:cs.LG OR cat:cs.CL OR cat:cs.MA) AND (all:\"agent\" OR all:\"multi-agent\" OR all:\"LLM\" OR all:\"large language model\") AND submittedDate:[202301010000 TO 202512312359]",
+  "sources": [
+    "arXiv (export.arxiv.org/api/query)",
+    "OpenAlex (api.openalex.org/works)"
+  ],
+  "stats": {
+    "total": 1000,
+    "with_pdf": 996,
+    "with_doi": 1000,
+    "with_cited": 933,
+    "by_year": {
+      "2023": 90,
+      "2024": 276,
+      "2025": 634
+    },
+    "by_category": {
+      "cs.MA": 213,
+      "cs.SE": 20,
+      "cs.CL": 264,
+      "cond-mat.mtrl-sci": 2,
+      "q-fin.TR": 5,
+      "cs.AI": 296,
+      "cs.DB": 3,
+      "cs.RO": 20,
+      "cs.CV": 10,
+      "cs.GT": 2,
+      "cs.LG": 78,
+      "cs.NE": 1,
+      "q-fin.ST": 1,
+      "cs.SD": 2,
+      "cs.DC": 11,
+      "cs.NI": 1,
+      "cs.CR": 27,
+      "cs.SI": 3,
+      "cs.CY": 4,
+      "cs.HC": 12,
+      "cond-mat.soft": 1,
+      "cs.AR": 4,
+      "quant-ph": 2,
+      "cs.IR": 10,
+      "cs.CE": 1,
+      "cs.OS": 1,
+      "q-fin.PM": 1,
+      "q-bio.BM": 1,
+      "q-bio.QM": 1,
+      "eess.SY": 1,
+      "physics.soc-ph": 1,
+      "cs.LO": 1
+    }
+  },
+  "pdf_download": {
+    "ok": 0,
+    "cached": 996,
+    "failed": 4
+  }
+}
