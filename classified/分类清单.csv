@@ -1,158 +1,364 @@
 ﻿分类,风格,优,arxiv_id,标题,备注,被引,arXiv
 好,科研风,,2301.02083,Self-Motivated Multi-Agent Exploration,,2,https://arxiv.org/abs/2301.02083
+坏,,,2301.08278,Investigating the Impact of Direct Punishment on the Emergence of Cooperation in Multi-Agent Reinforcement Learning Systems,,4,https://arxiv.org/abs/2301.08278
+坏,,,2301.08864,Decentralized Multi-agent Filtering,,0,https://arxiv.org/abs/2301.08864
+坏,,,2301.10993,Multi-Agent Congestion Cost Minimization With Linear Function Approximations,,0,https://arxiv.org/abs/2301.10993
 好,生动活泼,,2302.00521,Off-the-Grid MARL: Datasets with Baselines for Offline Multi-Agent Reinforcement Learning,,1,https://arxiv.org/abs/2302.00521
+坏,,,2302.03322,Attacking Cooperative Multi-Agent Reinforcement Learning by Adversarial Minority Influence,,3,https://arxiv.org/abs/2302.03322
+坏,,,2302.03438,Uncoupled Learning of Differential Stackelberg Equilibria with Commitments,,0,https://arxiv.org/abs/2302.03438
+坏,,,2302.04094,Learning Graph-Enhanced Commander-Executor for Multi-Agent Navigation,,3,https://arxiv.org/abs/2302.04094
+坏,,,2302.05528,Learning cooperative behaviours in adversarial multi-agent systems,,2,https://arxiv.org/abs/2302.05528
+坏,,,2302.07515,TiZero: Mastering Multi-Agent Football with Curriculum Learning and Self-Play,,3,https://arxiv.org/abs/2302.07515
+坏,,,2302.10809,Causal Explanations for Sequential Decision-Making in Multi-Agent Systems,,2,https://arxiv.org/abs/2302.10809
+坏,,,2303.16641,A Hierarchical Game-Theoretic Decision-Making for Cooperative Multi-Agent Systems Under the Presence of Adversarial Agents,,0,https://arxiv.org/abs/2303.16641
 好,科研风,,2304.12653,Partially Observable Mean Field Multi-Agent Reinforcement Learning Based on Graph-Attention,,21,https://arxiv.org/abs/2304.12653
+坏,,,2305.13062,Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study,,3,https://arxiv.org/abs/2305.13062
 好,科研风,,2305.13936,Robust Multi-agent Communication via Multi-view Message Certification,,40,https://arxiv.org/abs/2305.13936
 好,科研风,,2305.13937,Multi-agent Continual Coordination via Progressive Task Contextualization,,0,https://arxiv.org/abs/2305.13937
 好,科研风,,2305.17330,MADiff: Offline Multi-agent Learning with Diffusion Models,,5,https://arxiv.org/abs/2305.17330
 好,生动活泼,,2305.19118,Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate,,30,https://arxiv.org/abs/2305.19118
 好,科研风,,2306.02561,LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion,,9,https://arxiv.org/abs/2306.02561
+坏,,,2306.08568,WizardCoder: Empowering Code Large Language Models with Evol-Instruct,,84,https://arxiv.org/abs/2306.08568
+坏,,,2306.08900,Offline Multi-Agent Reinforcement Learning with Coupled Value Factorization,,0,https://arxiv.org/abs/2306.08900
+坏,,,2307.02691,SACHA: Soft Actor-Critic with Heuristic-Based Attention for Partially Observable Multi-Agent Path Finding,,43,https://arxiv.org/abs/2307.02691
+坏,,,2307.02757,Wireless Multi-Agent Generative AI: From Connected Intelligence to Collective Intelligence,,13,https://arxiv.org/abs/2307.02757
+坏,,,2307.06187,Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems,,4,https://arxiv.org/abs/2307.06187
+坏,,,2307.14745,Using Multi-Agent MicroServices (MAMS) for Agent Based Modelling,,0,https://arxiv.org/abs/2307.14745
 好,生动活泼,,2308.00352,MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework,,152,https://arxiv.org/abs/2308.00352
 好,生动活泼,,2308.07201,ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate,,56,https://arxiv.org/abs/2308.07201
 好,生动活泼,,2308.10848,AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors,,0,https://arxiv.org/abs/2308.10848
+坏,,,2308.11071,Neural Amortized Inference for Nested Multi-agent Reasoning,,0,https://arxiv.org/abs/2308.11071
 好,生动活泼,,2308.12503,CGMI: Configurable General Multi-Agent Interaction Framework,,6,https://arxiv.org/abs/2308.12503
+坏,,,2308.16149,Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models,,23,https://arxiv.org/abs/2308.16149
 好,生动活泼,,2309.07864,The Rise and Potential of Large Language Model Based Agents: A Survey,,256,https://arxiv.org/abs/2309.07864
 好,科研风,,2309.10346,Explaining Agent Behavior with Large Language Models,,1,https://arxiv.org/abs/2309.10346
 好,生动活泼,,2309.12311,LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent,,2,https://arxiv.org/abs/2309.12311
+坏,,,2310.00034,PB-LLM: Partially Binarized Large Language Models,,7,https://arxiv.org/abs/2310.00034
 好,科研风,,2310.01444,Adapting LLM Agents with Universal Feedback in Communication,,6,https://arxiv.org/abs/2310.01444
+坏,,,2310.03659,Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures,,11,https://arxiv.org/abs/2310.03659
+坏,,,2310.03903,LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models,,10,https://arxiv.org/abs/2310.03903
+坏,,,2310.06801,Inverse Factorized Q-Learning for Cooperative Multi-agent Imitation Learning,,0,https://arxiv.org/abs/2310.06801
+坏,,,2310.08067,GameGPT: Multi-agent Collaborative Framework for Game Development,,3,https://arxiv.org/abs/2310.08067
+坏,,,2310.10701,Theory of Mind for Multi-Agent Collaboration via Large Language Models,,70,https://arxiv.org/abs/2310.10701
+坏,,,2310.12290,Fact-based Agent modeling for Multi-Agent Reinforcement Learning,,0,https://arxiv.org/abs/2310.12290
 好,科研风,,2310.15127,Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models,,1,https://arxiv.org/abs/2310.15127
 好,科研风,,2311.01825,Large Language Models to the Rescue: Reducing the Complexity in Scientific Workflow Development Using ChatGPT,,10,https://arxiv.org/abs/2311.01825
 好,科研风,,2311.04740,Enhancing Multi-Agent Coordination through Common Operating Picture Integration,,0,https://arxiv.org/abs/2311.04740
+坏,,,2311.06622,TrainerAgent: Customizable and Efficient Model Training through LLM-Powered Multi-Agent System,,3,https://arxiv.org/abs/2311.06622
 好,生动活泼,,2311.07076,On the Discussion of Large Language Models: Symmetry of Agents and Interplay with Prompts,,0,https://arxiv.org/abs/2311.07076
 好,科研风,,2311.08152,Towards Reasoning in Large Language Models via Multi-Agent Peer Review Collaboration,,3,https://arxiv.org/abs/2311.08152
+坏,,,2311.08562,"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration",,2,https://arxiv.org/abs/2311.08562
 好,生动活泼,,2311.10813,A Language Agent for Autonomous Driving,,15,https://arxiv.org/abs/2311.10813
+坏,,,2311.13373,Large Language Model as a Policy Teacher for Training Reinforcement Learning Agents,,2,https://arxiv.org/abs/2311.13373
 好,科研风,,2312.00746,Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games,,0,https://arxiv.org/abs/2312.00746
+坏,,,2312.01090,Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large Language Model,,1,https://arxiv.org/abs/2312.01090
 好,生动活泼,,2312.07850,Large Language Model Enhanced Multi-Agent Systems for 6G Communications,,1,https://arxiv.org/abs/2312.07850
+坏,,,2312.14769,Large Language Model (LLM) Bias Index -- LLMBI,,6,https://arxiv.org/abs/2312.14769
+坏,,,2401.02705,XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model,,5,https://arxiv.org/abs/2401.02705
 好,科研风,,2401.02777,From LLM to Conversational Agent: A Memory Enhanced Architecture with Fine-Tuning of Large Language Models,,6,https://arxiv.org/abs/2401.02777
+坏,,,2401.03428,"Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects",,0,https://arxiv.org/abs/2401.03428
 好,生动活泼,,2401.03945,SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems,,1,https://arxiv.org/abs/2401.03945
+坏,,,2401.07324,Small LLMs Are Weak Tool Learners: A Multi-LLM Agent,,4,https://arxiv.org/abs/2401.07324
 好,科研风,,2401.10034,Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap,,11,https://arxiv.org/abs/2401.10034
 好,生动活泼,,2401.11880,"PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety",,0,https://arxiv.org/abs/2401.11880
+坏,,,2401.16158,Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception,,13,https://arxiv.org/abs/2401.16158
+坏,,,2401.16788,Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate,,0,https://arxiv.org/abs/2401.16788
 好,生动活泼,,2402.01135,A Multi-Agent Conversational Recommender System,,3,https://arxiv.org/abs/2402.01135
 好,科研风,,2402.01620,MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models,,1,https://arxiv.org/abs/2402.01620
+坏,,,2402.01680,Large Language Model based Multi-Agents: A Survey of Progress and Challenges,,64,https://arxiv.org/abs/2402.01680
+坏,,,2402.01737,Assistive Large Language Model Agents for Socially-Aware Negotiation Dialogues,,4,https://arxiv.org/abs/2402.01737
+坏,,,2402.04559,Can Large Language Model Agents Simulate Human Trust Behavior?,,7,https://arxiv.org/abs/2402.04559
+坏,,,2402.04578,S-Agents: Self-organizing Agents in Open-ended Environments,,2,https://arxiv.org/abs/2402.04578
 好,科研风,,2402.07401,Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate,,7,https://arxiv.org/abs/2402.07401
 好,生动活泼,,2402.09742,AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator,,5,https://arxiv.org/abs/2402.09742
+坏,,,2402.10178,TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation,,5,https://arxiv.org/abs/2402.10178
 好,科研风,,2402.11163,KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph,,13,https://arxiv.org/abs/2402.11163
 好,科研风,,2402.11208,Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents,,8,https://arxiv.org/abs/2402.11208
 好,生动活泼,,2402.11651,Learning From Failure: Integrating Negative Examples when Fine-tuning Large Language Models as Agents,,2,https://arxiv.org/abs/2402.11651
 好,科研风,,2402.14744,Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation,,12,https://arxiv.org/abs/2402.14744
+坏,,,2402.14871,LLM Based Multi-Agent Generation of Semi-structured Documents from Semantic Templates in the Public Administration Domain,,2,https://arxiv.org/abs/2402.14871
 好,生动活泼,,2402.15809,Empowering Large Language Model Agents through Action Learning,,0,https://arxiv.org/abs/2402.15809
+坏,,,2402.18240,Prospect Personalized Recommendation on Large Language Model-based Agent Platform,,3,https://arxiv.org/abs/2402.18240
 好,生动活泼,,2402.18272,Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?,,4,https://arxiv.org/abs/2402.18272
+坏,,,2403.00810,Bootstrapping Cognitive Agents with a Large Language Model,,5,https://arxiv.org/abs/2403.00810
 好,科研风,,2403.07378,SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression,,1,https://arxiv.org/abs/2403.07378
 好,科研风,,2403.07559,Ensembling Prioritized Hybrid Policies for Multi-agent Pathfinding,,0,https://arxiv.org/abs/2403.07559
+坏,,,2403.14783,Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering,,1,https://arxiv.org/abs/2403.14783
+坏,,,2403.17246,TwoStep: Multi-agent Task Planning using Classical Planners and Large Language Models,,1,https://arxiv.org/abs/2403.17246
+坏,,,2403.17927,MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution,,9,https://arxiv.org/abs/2403.17927
 好,科研风,,2404.01131,GOV-REK: Governed Reward Engineering Kernels for Designing Robust Multi-Agent Reinforcement Learning Systems,,0,https://arxiv.org/abs/2404.01131
 好,科研风,,2404.01230,LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models,,6,https://arxiv.org/abs/2404.01230
 好,生动活泼,,2404.01663,CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models,,2,https://arxiv.org/abs/2404.01663
+坏,,,2404.02183,Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization,,6,https://arxiv.org/abs/2404.02183
+坏,,,2404.04167,Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model,,5,https://arxiv.org/abs/2404.04167
+坏,,,2404.05569,360$^\circ$REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System,,0,https://arxiv.org/abs/2404.05569
+坏,,,2404.07677,ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs,,2,https://arxiv.org/abs/2404.07677
+坏,,,2404.07960,Content Knowledge Identification with Multi-Agent Large Language Models (LLMs),,16,https://arxiv.org/abs/2404.07960
+坏,,,2404.09982,INMS: Memory Sharing for Large Language Model based Agents,,2,https://arxiv.org/abs/2404.09982
 好,生动活泼,,2404.12135,mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture,,1,https://arxiv.org/abs/2404.12135
+坏,,,2404.16579,Neural Interaction Energy for Multi-Agent Trajectory Prediction,,0,https://arxiv.org/abs/2404.16579
 好,生动活泼,,2404.17662,PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games,,3,https://arxiv.org/abs/2404.17662
+坏,,,2404.17729,"CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving",,0,https://arxiv.org/abs/2404.17729
+坏,,,2404.18081,ComposerX: Multi-Agent Symbolic Music Composition with LLMs,,6,https://arxiv.org/abs/2404.18081
+坏,,,2405.02858,Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation,,0,https://arxiv.org/abs/2405.02858
+坏,,,2405.05955,Smurfs: Multi-Agent System using Context-Efficient DFSDT for Tool Planning,,1,https://arxiv.org/abs/2405.05955
+坏,,,2405.11106,LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions,,11,https://arxiv.org/abs/2405.11106
+坏,,,2405.18092,LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins,,1,https://arxiv.org/abs/2405.18092
 好,生动活泼,,2405.19266,PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications,,5,https://arxiv.org/abs/2405.19266
+坏,,,2405.19456,SSFF: Investigating LLM Predictive Capabilities for Startup Success through a Multi-Agent Framework with Enhanced Explainability and Performance,,3,https://arxiv.org/abs/2405.19456
 好,科研风,,2405.20770,Large Language Model Sentinel: LLM Agent for Adversarial Purification,,1,https://arxiv.org/abs/2405.20770
+坏,,,2406.00244,Controlling Large Language Model Agents with Entropic Activation Steering,,1,https://arxiv.org/abs/2406.00244
 好,科研风,,2406.01698,Demystifying AI Platform Design for Distributed Inference of Next-Generation LLM models,,1,https://arxiv.org/abs/2406.01698
+坏,,,2406.01893,Large Language Model-Enabled Multi-Agent Manufacturing Systems,,1,https://arxiv.org/abs/2406.01893
+坏,,,2406.02818,Chain of Agents: Large Language Models Collaborating on Long-Context Tasks,,9,https://arxiv.org/abs/2406.02818
+坏,,,2406.03075,Towards Detecting LLMs Hallucination via Markov Chain-based Multi-agent Debate Framework,,1,https://arxiv.org/abs/2406.03075
+坏,,,2406.04692,Mixture-of-Agents Enhances Large Language Model Capabilities,,25,https://arxiv.org/abs/2406.04692
+坏,,,2406.06549,Large Language Model (LLM) for Standard Cell Layout Design Optimization,,1,https://arxiv.org/abs/2406.06549
 好,科研风,,2406.07054,CoEvol: Constructing Better Responses for Instruction Finetuning through Multi-Agent Cooperation,,1,https://arxiv.org/abs/2406.07054
+坏,,,2406.07155,Scaling Large Language Model-based Multi-Agent Collaboration,,7,https://arxiv.org/abs/2406.07155
 好,科研风,,2406.14228,EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms,,0,https://arxiv.org/abs/2406.14228
+坏,,,2406.19477,Multi-agent Cooperative Games Using Belief Map Assisted Training,,1,https://arxiv.org/abs/2406.19477
+坏,,,2406.20041,BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration,,4,https://arxiv.org/abs/2406.20041
+坏,,,2407.00092,Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges,,0,https://arxiv.org/abs/2407.00092
+坏,,,2407.00662,Multi-Agent Training for Pommerman: Curriculum Learning and Population-based Self-Play Approach,,0,https://arxiv.org/abs/2407.00662
+坏,,,2407.06426,DebUnc: Improving Large Language Model Agent Communication With Uncertainty Metrics,,3,https://arxiv.org/abs/2407.06426
+坏,,,2407.06567,FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making,,11,https://arxiv.org/abs/2407.06567
+坏,,,2407.07086,Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models,,3,https://arxiv.org/abs/2407.07086
 好,科研风,,2407.07093,FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation,,0,https://arxiv.org/abs/2407.07093
 好,生动活泼,,2407.07791,Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities,,0,https://arxiv.org/abs/2407.07791
 好,科研风,,2407.09893,Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks,,0,https://arxiv.org/abs/2407.09893
+坏,,,2407.09897,Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues,,2,https://arxiv.org/abs/2407.09897
 好,科研风,,2407.10403,Cooperative Reward Shaping for Multi-Agent Pathfinding,,0,https://arxiv.org/abs/2407.10403
+坏,,,2407.11384,InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains,,4,https://arxiv.org/abs/2407.11384
 好,科研风,,2407.12532,Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models,,1,https://arxiv.org/abs/2407.12532
 好,科研风,,2407.14239,KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models,,1,https://arxiv.org/abs/2407.14239
 好,科研风,,2407.15073,Multi-Agent Causal Discovery Using Large Language Models,,7,https://arxiv.org/abs/2407.15073
 好,生动活泼,,2407.16252,LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation,,0,https://arxiv.org/abs/2407.16252
 好,科研风,,2407.17789,Very Large-Scale Multi-Agent Simulation in AgentScope,,1,https://arxiv.org/abs/2407.17789
+坏,,,2407.21320,MetaOpenFOAM: an LLM-based multi-agent framework for CFD,,1,https://arxiv.org/abs/2407.21320
 好,生动活泼,,2408.00764,AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation,,1,https://arxiv.org/abs/2408.00764
+坏,,,2408.01779,MathLearner: A Large Language Model Agent Framework for Learning to Solve Mathematical Problems,,2,https://arxiv.org/abs/2408.01779
+坏,,,2408.02248,ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems,,0,https://arxiv.org/abs/2408.02248
 好,生动活泼,,2408.04472,Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate,,0,https://arxiv.org/abs/2408.04472
+坏,,,2408.06503,Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards,,0,https://arxiv.org/abs/2408.06503
+坏,,,2408.06849,Causal Agent based on Large Language Model,,1,https://arxiv.org/abs/2408.06849
+坏,,,2408.07531,Development of a Large Language Model-based Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments,,3,https://arxiv.org/abs/2408.07531
 好,科研风,,2408.08902,Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection,,2,https://arxiv.org/abs/2408.08902
 好,科研风,,2408.09955,MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs,,3,https://arxiv.org/abs/2408.09955
 好,科研风,,2408.10635,Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search,,0,https://arxiv.org/abs/2408.10635
+坏,,,2408.13406,Collaboration Dynamics and Reliability Challenges of Multi-Agent LLM Systems in Finite Element Analysis,,0,https://arxiv.org/abs/2408.13406
 好,生动活泼,,2408.14972,AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems,,0,https://arxiv.org/abs/2408.14972
+坏,,,2408.15449,Graph Attention Inference of Network Topology in Multi-Agent Systems,,0,https://arxiv.org/abs/2408.15449
 好,科研风,,2408.15971,BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems,,0,https://arxiv.org/abs/2408.15971
 好,生动活泼,,2409.00494,GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems,,7,https://arxiv.org/abs/2409.00494
+坏,,,2409.00985,Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces,,0,https://arxiv.org/abs/2409.00985
 好,生动活泼,,2409.01575,An Implementation of Werewolf Agent That does not Truly Trust LLMs,,0,https://arxiv.org/abs/2409.01575
+坏,,,2409.02645,Emergent Language: A Survey and Taxonomy,,9,https://arxiv.org/abs/2409.02645
+坏,,,2409.03659,LLM-based multi-agent poetry generation in non-cooperative environments,,1,https://arxiv.org/abs/2409.03659
+坏,,,2409.08406,Knowledge Tagging with Large Language Model based Multi-Agent System,,0,https://arxiv.org/abs/2409.08406
+坏,,,2409.10737,AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing,,3,https://arxiv.org/abs/2409.10737
+坏,,,2409.11272,LOLA -- An Open-Source Massively Multilingual Large Language Model,,1,https://arxiv.org/abs/2409.11272
+坏,,,2409.11527,Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent,,0,https://arxiv.org/abs/2409.11527
+坏,,,2409.13065,Multi-Agent Vulcan: An Information-Driven Multi-Agent Path Finding Approach,,2,https://arxiv.org/abs/2409.13065
 好,生动活泼,,2409.14051,GroupDebate: Enhancing the Efficiency of Multi-Agent Debate Using Group Discussion,,0,https://arxiv.org/abs/2409.14051
+坏,,,2410.02026,Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics,,2,https://arxiv.org/abs/2410.02026
+坏,,,2410.02189,Agent-Oriented Planning in Multi-Agent Systems,,2,https://arxiv.org/abs/2410.02189
 好,科研风,,2410.02506,Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems,,3,https://arxiv.org/abs/2410.02506
 好,科研风,,2410.02507,Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Insights from Multi-Agent Collaboration,,1,https://arxiv.org/abs/2410.02507
 好,科研风,,2410.02511,"Stop Wandering, Find the Keys: LLMs Discriminate Key States for Efficient Multi-Agent Exploration",,0,https://arxiv.org/abs/2410.02511
+坏,,,2410.02551,ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration,,22,https://arxiv.org/abs/2410.02551
+坏,,,2410.02584,Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions,,1,https://arxiv.org/abs/2410.02584
 好,科研风,,2410.02958,AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML,,5,https://arxiv.org/abs/2410.02958
 好,科研风,,2410.03129,ARB-LLM: Alternating Refined Binarizations for Large Language Models,,0,https://arxiv.org/abs/2410.03129
+坏,,,2410.03997,YOLO-MARL: You Only LLM Once for Multi-Agent Reinforcement Learning,,0,https://arxiv.org/abs/2410.03997
+坏,,,2410.04452,MindScope: Exploring cognitive biases in large language models through Multi-Agent Systems,,1,https://arxiv.org/abs/2410.04452
 好,科研风,,2410.05130,Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents,,4,https://arxiv.org/abs/2410.05130
+坏,,,2410.06101,Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning,,0,https://arxiv.org/abs/2410.06101
+坏,,,2410.07283,Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems,,0,https://arxiv.org/abs/2410.07283
 好,科研风,,2410.07561,AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models,,1,https://arxiv.org/abs/2410.07561
 好,科研风,,2410.08115,Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System,,0,https://arxiv.org/abs/2410.08115
 好,生动活泼,,2410.09403,Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System,,4,https://arxiv.org/abs/2410.09403
 好,生动活泼,,2410.11782,G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks,,1,https://arxiv.org/abs/2410.11782
 好,科研风,,2410.12376,ShapefileGPT: A Multi-Agent Large Language Model Framework for Automated Shapefile Processing,,3,https://arxiv.org/abs/2410.12376
+坏,,,2410.12475,Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering,,0,https://arxiv.org/abs/2410.12475
 好,科研风,,2410.12532,MedAide: Information Fusion and Anatomy of Medical Intents via LLM-based Agent Collaboration,,2,https://arxiv.org/abs/2410.12532
+坏,,,2410.13768,Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems,,4,https://arxiv.org/abs/2410.13768
 好,科研风,,2410.14251,Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation,,0,https://arxiv.org/abs/2410.14251
+坏,,,2410.14368,CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic,,0,https://arxiv.org/abs/2410.14368
+坏,,,2410.14989,AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model,,0,https://arxiv.org/abs/2410.14989
+坏,,,2410.15168,An Electoral Approach to Diversify LLM-based Multi-Agent Collective Decision-Making,,0,https://arxiv.org/abs/2410.15168
 好,生动活泼,,2410.15686,NetSafe: Exploring the Topological Safety of Multi-agent Networks,,1,https://arxiv.org/abs/2410.15686
+坏,,,2410.16658,Adsorb-Agent: Autonomous Identification of Stable Adsorption Configurations via Large Language Model Agent,,5,https://arxiv.org/abs/2410.16658
 好,科研风,,2410.18032,GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration,,1,https://arxiv.org/abs/2410.18032
 好,科研风,,2410.19245,MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming,,0,https://arxiv.org/abs/2410.19245
+坏,,,2410.19382,Multi-Agent Reinforcement Learning with Selective State-Space Models,,0,https://arxiv.org/abs/2410.19382
 好,科研风,,2410.21067,CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models,,0,https://arxiv.org/abs/2410.21067
+坏,,,2410.22552,Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents,,0,https://arxiv.org/abs/2410.22552
 好,生动活泼,,2410.22916,Explainable Behavior Cloning: Teaching Large Language Model Agents through Learning by Demonstration,,0,https://arxiv.org/abs/2410.22916
+坏,,,2410.22932,Multi-Agent Large Language Models for Conversational Task-Solving,,3,https://arxiv.org/abs/2410.22932
+坏,,,2410.23180,ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning,,0,https://arxiv.org/abs/2410.23180
+坏,,,2411.00053,ACC-Collab: An Actor-Critic Approach to Multi-Agent LLM Collaboration,,1,https://arxiv.org/abs/2411.00053
+坏,,,2411.00427,DARD: A Multi-Agent Approach for Task-Oriented Dialog Systems,,0,https://arxiv.org/abs/2411.00427
+坏,,,2411.01455,HiMemFormer: Hierarchical Memory-Aware Transformer for Multi-Agent Action Anticipation,,1,https://arxiv.org/abs/2411.01455
 好,科研风,,2411.03284,SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents,,0,https://arxiv.org/abs/2411.03284
+坏,,,2411.03603,CPIG: Leveraging Consistency Policy with Intention Guidance for Multi-agent Exploration,,0,https://arxiv.org/abs/2411.03603
 好,生动活泼,,2411.04672,Semantic-Aware Resource Management for C-V2X Platooning via Multi-Agent Reinforcement Learning,,0,https://arxiv.org/abs/2411.04672
+坏,,,2411.04867,"Think Smart, Act SMARL! Analyzing Probabilistic Logic Shields for Multi-Agent Reinforcement Learning",,0,https://arxiv.org/abs/2411.04867
+坏,,,2411.07039,Learning Collective Dynamics of Multi-Agent Systems using Event-based Vision,,0,https://arxiv.org/abs/2411.07039
+坏,,,2411.07098,A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs,,1,https://arxiv.org/abs/2411.07098
+坏,,,2411.07407,Using Generative AI and Multi-Agents to Provide Automatic Feedback,,9,https://arxiv.org/abs/2411.07407
+坏,,,2411.07464,BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks,,0,https://arxiv.org/abs/2411.07464
+坏,,,2411.08881,Can We Trust AI Agents? A Case Study of an LLM-Based Multi-Agent System for Ethical AI,,4,https://arxiv.org/abs/2411.08881
+坏,,,2411.14033,LLM-based Multi-Agent Systems: Techniques and Business Perspectives,,4,https://arxiv.org/abs/2411.14033
+坏,,,2411.15356,Regulator-Manufacturer AI Agents Modeling: Mathematical Feedback-Driven Multi-Agent LLM Framework,,0,https://arxiv.org/abs/2411.15356
+坏,,,2411.15692,DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration,,8,https://arxiv.org/abs/2411.15692
+坏,,,2411.16189,Enhancing Multi-Agent Consensus through Third-Party LLM Integration: Analyzing Uncertainty and Mitigating Hallucinations in Large Language Models,,0,https://arxiv.org/abs/2411.16189
 好,科研风,,2411.16313,CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning,,0,https://arxiv.org/abs/2411.16313
 好,科研风,,2411.16707,Enhancing LLMs for Power System Simulations: A Feedback-driven Multi-agent Framework,,1,https://arxiv.org/abs/2411.16707
+坏,,,2411.17636,MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation,,1,https://arxiv.org/abs/2411.17636
 好,生动活泼,,2411.18279,Large Language Model-Brained GUI Agents: A Survey,,6,https://arxiv.org/abs/2411.18279
 好,科研风,,2412.01928,MALT: Improving Reasoning with Multi-Agent LLM Training,,3,https://arxiv.org/abs/2412.01928
+坏,,,2412.03359,WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis,,0,https://arxiv.org/abs/2412.03359
+坏,,,2412.03920,A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios,,1,https://arxiv.org/abs/2412.03920
+坏,,,2412.04494,MAG-V: A Multi-Agent Framework for Synthetic Data Generation and Verification,,0,https://arxiv.org/abs/2412.04494
 好,科研风,,2412.04859,Breaking Event Rumor Detection via Stance-Separated Multi-Agent Debate,,0,https://arxiv.org/abs/2412.04859
+坏,,,2412.05449,Towards Effective GenAI Multi-Agent Collaboration: Design and Evaluation for Enterprise Applications,,3,https://arxiv.org/abs/2412.05449
+坏,,,2412.06828,Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System,,4,https://arxiv.org/abs/2412.06828
+坏,,,2412.08805,Generative Agents for Multi-Agent Autoformalization of Interaction Scenarios,,0,https://arxiv.org/abs/2412.08805
+坏,,,2412.09572,Rethinking LLM Uncertainty: A Multi-Agent Approach to Estimating Black-Box Model Uncertainty,,0,https://arxiv.org/abs/2412.09572
 好,科研风,,2412.09796,AutoPatent: A Multi-Agent Framework for Automatic Patent Generation,,0,https://arxiv.org/abs/2412.09796
 好,科研风,,2412.11014,CoopetitiveV: Leveraging LLM-powered Coopetitive Multi-Agent Prompting for High-quality Verilog Generation,,3,https://arxiv.org/abs/2412.11014
 好,科研风,,2412.11167,Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette,,0,https://arxiv.org/abs/2412.11167
+坏,,,2412.11761,Harnessing Language for Coordination: A Framework and Benchmark for LLM-Driven Multi-Agent Control,,2,https://arxiv.org/abs/2412.11761
 好,科研风,,2412.15504,Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework,,1,https://arxiv.org/abs/2412.15504
+坏,,,2412.15619,Understanding Individual Agent Importance in Multi-Agent System via Counterfactual Reasoning,,0,https://arxiv.org/abs/2412.15619
+坏,,,2412.16833,KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis,,11,https://arxiv.org/abs/2412.16833
 好,科研风,,2412.16878,Online Preference-based Reinforcement Learning with Self-augmented Feedback from Large Language Model,,0,https://arxiv.org/abs/2412.16878
+坏,,,2412.17481,A Survey on LLM-based Multi-Agent System: Recent Advances and New Frontiers in Application,,8,https://arxiv.org/abs/2412.17481
+坏,,,2412.18093,Molly: Making Large Language Model Agents Solve Python Problem More Logically,,0,https://arxiv.org/abs/2412.18093
+坏,,,2412.18697,Agents on the Bench: Large Language Model Based Multi Agent Framework for Trustworthy Digital Justice,,1,https://arxiv.org/abs/2412.18697
 好,科研风,,2412.20127,M-MAD: Multidimensional Multi-Agent Debate for Advanced Machine Translation Evaluation,,0,https://arxiv.org/abs/2412.20127
+坏,,,2412.20138,TradingAgents: Multi-Agents LLM Financial Trading Framework,,4,https://arxiv.org/abs/2412.20138
 好,科研风,,2412.20145,Efficient Multi-Agent Collaboration with Tool Use for Online Planning in Complex Table Question Answering,,0,https://arxiv.org/abs/2412.20145
 好,科研风,,2501.00055,LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models,,2,https://arxiv.org/abs/2501.00055
+坏,,,2501.00083,AI Agent for Education: von Neumann Multi-Agent System Framework,,7,https://arxiv.org/abs/2501.00083
+坏,,,2501.00750,Beyond Text: Implementing Multimodal Large Language Model-Powered Multi-Agent Systems Using a No-Code Platform,,8,https://arxiv.org/abs/2501.00750
 好,科研风,,2501.00826,LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management,,3,https://arxiv.org/abs/2501.00826
+坏,,,2501.00906,Large Language Model Based Multi-Agent System Augmented Complex Event Processing Pipeline for Internet of Multimedia Things,,2,https://arxiv.org/abs/2501.00906
+坏,,,2501.01140,Communicating Unexpectedness for Out-of-Distribution Multi-Agent Reinforcement Learning,,0,https://arxiv.org/abs/2501.01140
+坏,,,2501.01205,Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects,,1,https://arxiv.org/abs/2501.01205
+坏,,,2501.01266,PIMAEX: Multi-Agent Exploration through Peer Incentivization,,0,https://arxiv.org/abs/2501.01266
+坏,,,2501.05468,LatteReview: A Multi-Agent Framework for Systematic Review Automation Using Large Language Models,,3,https://arxiv.org/abs/2501.05468
 好,科研风,,2501.05470,RTLSquad: Multi-Agent Based Interpretable RTL Design,,0,https://arxiv.org/abs/2501.05470
+坏,,,2501.06322,Multi-Agent Collaboration Mechanisms: A Survey of LLMs,,21,https://arxiv.org/abs/2501.06322
+坏,,,2501.07815,Agent-Centric Projection of Prompting Techniques and Implications for Synthetic Training Data for Large Language Models,,0,https://arxiv.org/abs/2501.07815
 好,科研风,,2501.13727,Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System,,0,https://arxiv.org/abs/2501.13727
+坏,,,2501.14189,Distributed Multi-Agent Coordination Using Multi-Modal Foundation Models,,0,https://arxiv.org/abs/2501.14189
+坏,,,2501.14304,MASTER: A Multi-Agent System with LLM Specialized MCTS,,0,https://arxiv.org/abs/2501.14304
 好,生动活泼,,2501.16254,Multi-Agent Geospatial Copilots for Remote Sensing Workflows,,1,https://arxiv.org/abs/2501.16254
+坏,,,2502.00955,Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search,,0,https://arxiv.org/abs/2502.00955
 好,科研风,,2502.00988,PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback,,1,https://arxiv.org/abs/2502.00988
+坏,,,2502.01714,Position: Towards a Responsible LLM-empowered Multi-Agent Systems,,1,https://arxiv.org/abs/2502.01714
+坏,,,2502.02533,Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies,,0,https://arxiv.org/abs/2502.02533
 好,科研风,,2502.03450,Schema-Guided Scene-Graph Reasoning based on Multi-Agent Large Language Model System,,0,https://arxiv.org/abs/2502.03450
+坏,,,2502.03723,Speaking the Language of Teamwork: LLM-Guided Credit Assignment in Multi-Agent Reinforcement Learning,,1,https://arxiv.org/abs/2502.03723
 好,科研风,,2502.04180,Multi-agent Architecture Search via Agentic Supernet,,0,https://arxiv.org/abs/2502.04180
 好,科研风,,2502.04345,Jingfang: An LLM-Based Multi-Agent System for Precise Medical Consultation and Syndrome Differentiation in Traditional Chinese Medicine,,1,https://arxiv.org/abs/2502.04345
+坏,,,2502.05573,Low-Rank Agent-Specific Adaptation (LoRASA) for Multi-Agent Policy Learning,,0,https://arxiv.org/abs/2502.05573
 好,科研风,,2502.05957,AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents,,0,https://arxiv.org/abs/2502.05957
+坏,,,2502.05986,Preventing Rogue Agents Improves Multi-Agent Collaboration,,0,https://arxiv.org/abs/2502.05986
+坏,,,2502.06472,KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment,,0,https://arxiv.org/abs/2502.06472
 好,科研风,,2502.06882,Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction,,0,https://arxiv.org/abs/2502.06882
+坏,,,2502.07165,"Don't Just Demo, Teach Me the Principles: A Principle-Based Multi-Agent Prompting Strategy for Text Classification",,0,https://arxiv.org/abs/2502.07165
 好,科研风,,2502.07350,KABB: Knowledge-Aware Bayesian Bandits for Dynamic Expert Coordination in Multi-Agent Systems,,0,https://arxiv.org/abs/2502.07350
 好,科研风,,2502.08557,A New Query Expansion Approach via Agent-Mediated Dialogic Inquiry,,1,https://arxiv.org/abs/2502.08557
+坏,,,2502.09809,AgentGuard: Repurposing Agentic Orchestrator for Safety Evaluation of Tool Orchestration,,2,https://arxiv.org/abs/2502.09809
+坏,,,2502.10148,Closed-Loop Vision-Language Planning for Multi-Agent Coordination,,0,https://arxiv.org/abs/2502.10148
+坏,,,2502.10857,Divergent Thoughts toward One Goal: LLM-based Multi-Agent Collaboration System for Electronic Design Automation,,1,https://arxiv.org/abs/2502.10857
+坏,,,2502.11098,"Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems",,0,https://arxiv.org/abs/2502.11098
 好,科研风,,2502.11127,G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems,,0,https://arxiv.org/abs/2502.11127
 好,生动活泼,,2502.11133,MasRouter: Learning to Route LLMs for Multi-Agent Systems,,0,https://arxiv.org/abs/2502.11133
 好,科研风,,2502.11355,Nuclear Deployed: Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents,,3,https://arxiv.org/abs/2502.11355
 好,科研风,,2502.12149,HARBOR: Exploring Persona Dynamics in Multi-Agent Competition,,0,https://arxiv.org/abs/2502.12149
+坏,,,2502.12280,Connecting Large Language Model Agent to High Performance Computing Resource,,0,https://arxiv.org/abs/2502.12280
+坏,,,2502.13376,Learning Symbolic Task Decompositions for Multi-Agent Teams,,0,https://arxiv.org/abs/2502.13376
 好,科研风,,2502.14321,Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems,,10,https://arxiv.org/abs/2502.14321
+坏,,,2502.14496,Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization,,0,https://arxiv.org/abs/2502.14496
+坏,,,2502.14529,CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models,,0,https://arxiv.org/abs/2502.14529
+坏,,,2502.14743,Multi-Agent Coordination across Diverse Applications: A Survey,,1,https://arxiv.org/abs/2502.14743
+坏,,,2502.15153,When Disagreements Elicit Robustness: Investigating Self-Repair Capabilities under LLM Multi-Agent Disagreements,,0,https://arxiv.org/abs/2502.15153
+坏,,,2502.15425,TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning,,0,https://arxiv.org/abs/2502.15425
+坏,,,2502.16496,PMAT: Optimizing Action Generation Order in Multi-Agent Reinforcement Learning,,0,https://arxiv.org/abs/2502.16496
 好,科研风,,2502.16804,Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances,,0,https://arxiv.org/abs/2502.16804
+坏,,,2502.16863,Leveraging Large Language Models for Effective and Explainable Multi-Agent Credit Assignment,,0,https://arxiv.org/abs/2502.16863
 好,生动活泼,,2502.17924,FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models,,0,https://arxiv.org/abs/2502.17924
 好,生动活泼,,2502.18036,Harnessing Multiple Large Language Models: A Survey on LLM Ensemble,,5,https://arxiv.org/abs/2502.18036
+坏,,,2502.18228,Debt Collection Negotiations with Large Language Models: An Evaluation System and Optimizing Decision Making with Multi-Agent,,0,https://arxiv.org/abs/2502.18228
+坏,,,2502.18439,MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning,,0,https://arxiv.org/abs/2502.18439
+坏,,,2502.18652,Independent Mobility GPT (IDM-GPT): A Self-Supervised Multi-Agent Large Language Model Framework for Customized Traffic Mobility Analysis Using Machine Learning Models,,0,https://arxiv.org/abs/2502.18652
 好,生动活泼,,2502.20073,Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents,,0,https://arxiv.org/abs/2502.20073
 好,科研风,,2502.20859,The Power of Personality: A Human Simulation Perspective to Investigate Large Language Model Agents,,0,https://arxiv.org/abs/2502.20859
+坏,,,2502.21321,LLM Post-Training: A Deep Dive into Reasoning Large Language Models,,0,https://arxiv.org/abs/2502.21321
 好,生动活泼,,2503.02077,M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality,,0,https://arxiv.org/abs/2503.02077
 好,科研风,,2503.02519,Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent,,0,https://arxiv.org/abs/2503.02519
 好,科研风,,2503.03505,Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems in Minecraft,,0,https://arxiv.org/abs/2503.03505
 好,科研风,,2503.03686,MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems,,0,https://arxiv.org/abs/2503.03686
+坏,,,2503.03800,Multi-Agent Systems Powered by Large Language Models: Applications in Swarm Intelligence,,0,https://arxiv.org/abs/2503.03800
 好,科研风,,2503.04392,AgentSafe: Safeguarding Large Language Model-based Multi-agent Systems via Hierarchical Data Management,,0,https://arxiv.org/abs/2503.04392
 好,科研风,,2503.05347,GEMA-Score: Granular Explainable Multi-Agent Scoring Framework for Radiology Report Evaluation,,0,https://arxiv.org/abs/2503.05347
+坏,,,2503.06791,AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot,,0,https://arxiv.org/abs/2503.06791
+坏,,,2503.07693,Fully Autonomous Programming using Iterative Multi-Agent Debugging with Large Language Models,,6,https://arxiv.org/abs/2503.07693
+坏,,,2503.09263,COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation,,0,https://arxiv.org/abs/2503.09263
 好,科研风,,2503.09501,ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning,,0,https://arxiv.org/abs/2503.09501
+坏,,,2503.09758,Multi-Agent LLM Actor-Critic Framework for Social Robot Navigation,,1,https://arxiv.org/abs/2503.09758
+坏,,,2503.12188,Multi-Agent Systems Execute Arbitrary Malicious Code,,0,https://arxiv.org/abs/2503.12188
+坏,,,2503.12333,"GameChat: Multi-LLM Dialogue for Safe, Agile, and Socially Optimal Multi-Agent Navigation in Constrained Environments",,1,https://arxiv.org/abs/2503.12333
 好,科研风,,2503.12340,SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression,,0,https://arxiv.org/abs/2503.12340
 好,科研风,,2503.13205,MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways,,0,https://arxiv.org/abs/2503.13205
+坏,,,2503.13415,"A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives",,3,https://arxiv.org/abs/2503.13415
+坏,,,2503.13514,RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration,,1,https://arxiv.org/abs/2503.13514
+坏,,,2503.13657,Why Do Multi-Agent LLM Systems Fail?,,15,https://arxiv.org/abs/2503.13657
 好,科研风,,2503.13964,MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding,,3,https://arxiv.org/abs/2503.13964
 好,科研风,,2503.15272,MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration,,0,https://arxiv.org/abs/2503.15272
 好,科研风,,2503.16905,MAPS: Multi-Agent Personality Shaping for Collaborative Reasoning,,0,https://arxiv.org/abs/2503.16905
+坏,,,2503.17309,LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language,,0,https://arxiv.org/abs/2503.17309
 好,科研风,,2503.18891,AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration,,0,https://arxiv.org/abs/2503.18891
+坏,,,2503.20666,TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews,,0,https://arxiv.org/abs/2503.20666
 好,科研风,,2503.21460,"Large Language Model Agent: A Survey on Methodology, Applications and Challenges",,3,https://arxiv.org/abs/2503.21460
+坏,,,2503.21807,LERO: LLM-driven Evolutionary framework with Hybrid Rewards and Enhanced Observation for Multi-Agent Reinforcement Learning,,0,https://arxiv.org/abs/2503.21807
 好,科研风,,2503.22164,PharmAgents: Building a Virtual Pharma with Large Language Model Agents,,2,https://arxiv.org/abs/2503.22164
+坏,,,2503.22678,Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions,,0,https://arxiv.org/abs/2503.22678
+坏,,,2503.23037,"Agentic Large Language Models, a survey",,47,https://arxiv.org/abs/2503.23037
+坏,,,2503.23138,EncGPT: A Multi-Agent Workflow for Dynamic Encryption Algorithms,,0,https://arxiv.org/abs/2503.23138
 好,科研风,,2503.23314,SPIO: Ensemble and Selective Strategies via LLM-Based Multi-Agent Planning in Automated Data Science,,0,https://arxiv.org/abs/2503.23314
 好,科研风,,2504.00218,$\textit{Agents Under Siege}$: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks,,0,https://arxiv.org/abs/2504.00218
+坏,,,2504.00374,When Persuasion Overrides Truth in Multi-Agent LLM Debates: Introducing a Confidence-Weighted Persuasion Override Rate (CW-POR),,0,https://arxiv.org/abs/2504.00374
 好,科研风,,2504.00587,AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems,,0,https://arxiv.org/abs/2504.00587
+坏,,,2504.01911,Advancing AI-Scientist Understanding: Multi-Agent LLMs with Interpretable Physics Reasoning,,0,https://arxiv.org/abs/2504.01911
 好,科研风,,2504.02051,Self-Resource Allocation in Multi-Agent LLM Systems,,3,https://arxiv.org/abs/2504.02051
+坏,,,2504.02867,Multi-Agent LLM Judge: automatic personalized LLM judge design for evaluating natural language generation applications,,0,https://arxiv.org/abs/2504.02867
 好,科研风,,2504.02870,AI Hiring with LLMs: A Context-Aware and Explainable Multi-Agent Framework for Resume Screening,,1,https://arxiv.org/abs/2504.02870
 好,科研风,,2504.05370,EduPlanner: LLM-Based Multi-Agent Systems for Customized and Intelligent Instructional Design,,0,https://arxiv.org/abs/2504.05370
 好,科研风,,2504.05607,FactGuard: Leveraging Multi-Agent Systems to Generate Answerable and Unanswerable Questions for Enhanced Long-Context LLM Extraction,,0,https://arxiv.org/abs/2504.05607
+坏,,,2504.05716,Single-Agent vs. Multi-Agent LLM Strategies for Automated Student Reflection Assessment,,7,https://arxiv.org/abs/2504.05716
+坏,,,2504.07461,Achilles Heel of Distributed Multi-Agent Systems,,0,https://arxiv.org/abs/2504.07461
+坏,,,2504.08525,Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks,,0,https://arxiv.org/abs/2504.08525
+坏,,,2504.08621,MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation,,0,https://arxiv.org/abs/2504.08621
+坏,,,2504.09772,Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning,,0,https://arxiv.org/abs/2504.09772
 好,科研风,,2504.10415,LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models,,0,https://arxiv.org/abs/2504.10415
 好,科研风,,2504.12330,HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation,,1,https://arxiv.org/abs/2504.12330
+坏,,,2504.12735,The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems,,1,https://arxiv.org/abs/2504.12735
+坏,,,2504.15552,A Multi-Agent Framework for Automated Qinqiang Opera Script Generation Using Large Language Models,,0,https://arxiv.org/abs/2504.15552
 好,科研风,,2504.16129,MARFT: Multi-Agent Reinforcement Fine-Tuning,,0,https://arxiv.org/abs/2504.16129
 好,科研风,,2504.16408,LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation,,0,https://arxiv.org/abs/2504.16408
+坏,,,2504.17087,Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments,,0,https://arxiv.org/abs/2504.17087
 好,科研风,,2504.17200,A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation,,1,https://arxiv.org/abs/2504.17200
 好,科研风,,2504.17356,"Comprehend, Divide, and Conquer: Feature Subspace Exploration via Multi-Agent Hierarchical Reinforcement Learning",,0,https://arxiv.org/abs/2504.17356
+坏,,,2504.17950,Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning,,0,https://arxiv.org/abs/2504.17950
 好,生动活泼,,2504.18260,MAGI: Multi-Agent Guided Interview for Psychiatric Assessment,,0,https://arxiv.org/abs/2504.18260
+坏,,,2504.18373,Auto-SLURP: A Benchmark Dataset for Evaluating Multi-Agent Frameworks in Smart Personal Assistant,,0,https://arxiv.org/abs/2504.18373
 好,科研风,,2504.19565,Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training,,0,https://arxiv.org/abs/2504.19565
+坏,,,2504.21132,LLM Enhancer: Merged Approach using Vector Embedding for Reducing Large Language Model Hallucinations with External Knowledge,,0,https://arxiv.org/abs/2504.21132
 坏,,,2505.00212,Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems,,1,https://arxiv.org/abs/2505.00212
 好,生动活泼,,2505.00753,LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey,,2,https://arxiv.org/abs/2505.00753
 好,科研风,,2505.03096,Assessing and Enhancing the Robustness of LLM-based Multi-Agent Systems Through Chaos Engineering,,1,https://arxiv.org/abs/2505.03096
